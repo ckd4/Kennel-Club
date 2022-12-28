@@ -1,0 +1,39 @@
+com/example/kennelclub/Chat.java
+ com.example.kennelclub.Chat
+com/example/kennelclub/Contact.java
+ com.example.kennelclub.Contact
+com/example/kennelclub/News_test.java
+ com.example.kennelclub.News_test
+ com.example.kennelclub.News_test$1
+com/example/kennelclub/databinding/Reg3Binding.java
+ com.example.kennelclub.databinding.Reg3Binding
+com/example/kennelclub/databinding/ActivityMainBinding.java
+ com.example.kennelclub.databinding.ActivityMainBinding
+com/example/kennelclub/databinding/ActivityContactBinding.java
+ com.example.kennelclub.databinding.ActivityContactBinding
+com/example/kennelclub/MainActivity2.java
+ com.example.kennelclub.MainActivity2
+com/example/kennelclub/dressirovka.java
+ com.example.kennelclub.dressirovka
+com/example/kennelclub/Reg3Activity.java
+ com.example.kennelclub.Reg3Activity
+com/example/kennelclub/BuildConfig.java
+ com.example.kennelclub.BuildConfig
+com/example/kennelclub/databinding/ActivityChatBinding.java
+ com.example.kennelclub.databinding.ActivityChatBinding
+com/example/kennelclub/MainActivity.java
+ com.example.kennelclub.MainActivity
+ com.example.kennelclub.MainActivity$1
+ com.example.kennelclub.MainActivity$2
+ com.example.kennelclub.MainActivity$3
+ com.example.kennelclub.MainActivity$4
+ com.example.kennelclub.MainActivity$5
+ com.example.kennelclub.MainActivity$6
+com/example/kennelclub/databinding/ActivityDressirovkaBinding.java
+ com.example.kennelclub.databinding.ActivityDressirovkaBinding
+com/example/kennelclub/databinding/ActivityMain2Binding.java
+ com.example.kennelclub.databinding.ActivityMain2Binding
+com/example/kennelclub/databinding/ActivityNewsTestBinding.java
+ com.example.kennelclub.databinding.ActivityNewsTestBinding
+com/example/kennelclub/databinding/ContentScrollingBinding.java
+ com.example.kennelclub.databinding.ContentScrollingBinding
