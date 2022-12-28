@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d0f0c0"
+    tools:context=".dressirovka">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="103dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="104dp"
+        android:background="#d0f0c0"
+        android:text="Как приучить щенка к поводку"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="380dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="30dp"
+        android:text="Один из главных вопросов, с которым сталкиваются начинающие собаководы: как приучить щенка к поводку. На самом деле это не самый сложный навык, и обычно на его освоение у собак уходит не так много времени – на основные шаги понадобится буквально несколько дней. Конечно, при условии что владелец готов заниматься со своим питомцем и учитывать его потребности. Рассмотрим, когда нужно приучать к поводку и как это правильно сделать."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="121dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="121dp"
+        android:text="Какой поводок выбрать?"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="390dp"
+        android:layout_height="392dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="30dp"
+        android:text="Порой затруднения начинаются еще до начала занятий. Широкий ассортимент зоомагазинов способен загнать в тупик: какой же поводок выбрать? Конечно, многие владельцы ориентируются прежде всего на свой вкус и бюджет, но также стоит принять во внимание следующее:  Один из самых популярных вариантов – рулетка. Но она не слишком хорошо подходит для того, чтобы приучить собаку ходить на поводке. Когда щенок только учится, порядок должен быть четкий: он или может двигаться свободно, или идет на поводке. Рулетка же предназначена для того, чтобы давать собаке относительную свободу движения, будучи пристегнутой. Кроме того, рулетка не позволяет оперативно реагировать на поведение собаки.   Не рекомендуются также поводки-шнурки и поводки-цепочки. Во-первых, ими сложнее управлять собакой. Во-вторых, и для животного они менее удобны: цепочка слишком тяжела, а шнурок слишком легок; цепочка отвлекает лишними звуками, а шнурок легко запутывается. Лучше всего для занятий с собакой подойдет брезентовый поводок. Он легкий, гибкий и удобный в использовании. Его можно спокойно бросать на землю, наступать на него. После тренировки такой поводок легко почистить и привести в первоначальный вид или просто заменить на новый, так как цена на них достаточно низкая.  "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
+</androidx.constraintlayout.widget.ConstraintLayout>

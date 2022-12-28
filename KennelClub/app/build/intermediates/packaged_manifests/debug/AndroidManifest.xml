@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kennelclub"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="31" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KennelClub" >
+        <activity
+            android:name="com.example.kennelclub.News_test"
+            android:exported="false"
+            android:label="@string/title_activity_news_test"
+            android:theme="@style/Theme.KennelClub.NoActionBar" />
+        <activity
+            android:name="com.example.kennelclub.Chat"
+            android:exported="false" />
+        <activity
+            android:name="com.example.kennelclub.dressirovka"
+            android:exported="false" />
+        <activity
+            android:name="com.example.kennelclub.Contact"
+            android:exported="false" />
+        <activity
+            android:name="com.example.kennelclub.Reg3Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.kennelclub.MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.kennelclub.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
